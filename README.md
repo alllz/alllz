@@ -1,5 +1,5 @@
 <a href="https://github.com/alllz#user-activity-overview">
-  <img src="https://avatars.githubusercontent.com/u/68206767?v=4" width="200px" alt="Alllz" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./unicorn.png" width="200px" alt="Unicorn" />
+  <img src="./unicorn.png" width="200px" alt="Unicorn" />
 </a>
 
 <br />
